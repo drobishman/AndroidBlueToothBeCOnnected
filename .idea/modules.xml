@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidBlueToothBeCOnnected.iml" filepath="$PROJECT_DIR$/AndroidBlueToothBeCOnnected.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/AndroidBlueToothBeCOnnected-app.iml" filepath="$PROJECT_DIR$/app/AndroidBlueToothBeCOnnected-app.iml" group="AndroidBlueToothBeCOnnected/app" />
-      <module fileurl="file://$PROJECT_DIR$/StudioProjects-AndroidBlueToothBeCOnnected.iml" filepath="$PROJECT_DIR$/StudioProjects-AndroidBlueToothBeCOnnected.iml" group="AndroidBlueToothBeCOnnected" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidBlueToothBeCOnnected.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidBlueToothBeCOnnected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidBlueToothBeCOnnected.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidBlueToothBeCOnnected.app.iml" />
     </modules>
   </component>
 </project>
